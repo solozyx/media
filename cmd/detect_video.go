@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/salixleaf/media/video"
+	"media/video"
 )
 
 func main() {

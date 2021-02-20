@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"sync"
 
-	mimage "github.com/salixleaf/media/image"
+	mimage "media/image"
 )
 
 var debug bool
